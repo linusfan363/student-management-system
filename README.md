@@ -60,7 +60,7 @@ sms.exe # Windows console
 
 student-management-system/
 sms.c # all source code (single file, C17)
-image.png # console screenshot
+001.png # console screenshot
 .gitignore # excludes build artifacts and data file
 students.dat # runtime data file (generated, NOT in repo)
 
